@@ -21,7 +21,8 @@
                                 <rect key="frame" x="223" y="257" width="155" height="30"/>
                                 <state key="normal" title="Change Screen Button"/>
                                 <connections>
-                                    <segue destination="5py-Fq-tmg" kind="show" identifier="toUpdated" id="DVy-54-mBN"/>
+                                    <action selector="switchScreenToUpdated:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3tl-wr-Hd4"/>
+                                    <segue destination="5py-Fq-tmg" kind="show" identifier="toUpdatedFromMain" id="DVy-54-mBN"/>
                                 </connections>
                             </button>
                         </subviews>
