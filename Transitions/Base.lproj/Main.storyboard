@@ -18,7 +18,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UQT-Ho-zmD">
-                                <rect key="frame" x="223" y="257" width="155" height="30"/>
+                                <rect key="frame" x="223" y="285" width="155" height="30"/>
                                 <state key="normal" title="Change Screen Button"/>
                                 <connections>
                                     <action selector="switchScreenToUpdated:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3tl-wr-Hd4"/>
@@ -31,7 +31,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-630" y="325"/>
+            <point key="canvasLocation" x="-439" y="278"/>
         </scene>
         <!--Updated View Contoller-->
         <scene sceneID="cpI-ol-KPS">
